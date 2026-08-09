@@ -1,0 +1,11 @@
+# Decision Log: [Topic Name]
+
+- **Why it was included**: [rationale]
+- **Why it was excluded**: [N/A if included, otherwise, what alternative or adjacent topics were considered and rejected, and why]
+- **Which competence it develops**: [competence]
+- **Which jobs require it**: [jobs]
+- **Which papers support it**: [papers]
+- **Which companies use it**: [companies]
+- **Which prerequisites it needs**: [prerequisites]
+- **Which modules it unlocks**: [modules]
+- **Which associated GitHub project demonstrates it**: [project]
